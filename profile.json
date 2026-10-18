@@ -1,10 +1,10 @@
 {
   "@context": "https://schema.org",
   "@type": "Person",
-  "@id": "https://redlook096.github.io/About_Redlook096/#person",
+  "@id": "https://lukesimpson01.github.io/About_Redlook096/#person",
   "name": "Luke Simpson",
-  "url": "https://redlook096.github.io/About_Redlook096/",
-  "description": "Luke Simpson is an Australia-based independent builder interested in artificial intelligence, software development, interface design, and building Clyra AI.",
+  "url": "https://lukesimpson01.github.io/About_Redlook096/",
+  "description": "Luke Simpson is an Australia-based independent builder interested in artificial intelligence, software development, interface design, and automation. He is developing Clyra AI.",
   "homeLocation": {
     "@type": "Place",
     "name": "Sydney, New South Wales, Australia"
@@ -19,17 +19,9 @@
     "Creative software",
     "Automation"
   ],
-  "sameAs": [
-    "https://github.com/Redlook096",
-    "https://github.com/Redlook096/Clyra-AI"
-  ],
-  "mainEntityOfPage": "https://redlook096.github.io/About_Redlook096/",
-  "projects": [
-    {
-      "name": "Clyra AI",
-      "url": "https://github.com/Redlook096/Clyra-AI",
-      "description": "An AI workspace concept focused on connecting conversation, research, coding, browser-based workflows, and creative tools."
-    }
+  "mainEntityOfPage": "https://lukesimpson01.github.io/About_Redlook096/",
+  "projectInterests": [
+    "Clyra AI"
   ],
   "lastReviewed": "2026-10-19"
 }
