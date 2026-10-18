@@ -4,6 +4,8 @@ Canonical identity: Luke Simpson
 Canonical homepage: https://lukesimpson01.github.io/About_Redlook096/
 Human-readable indexed profile: https://lukesimpson01.github.io/About_Redlook096/profile.html
 Structured data: https://lukesimpson01.github.io/About_Redlook096/profile.json
+Developer profile: https://github.com/lukesimpson01
+Public Clyra AI repository: https://github.com/lukesimpson01/Clyra-AI-Final-local
 Short AI summary: https://lukesimpson01.github.io/About_Redlook096/llms.txt
 This document: https://lukesimpson01.github.io/About_Redlook096/llms-full.txt
 
@@ -22,7 +24,7 @@ Luke Simpson is an aspiring entrepreneur and AI developer based in Sydney, Austr
 Luke Simpson is developing his technical and entrepreneurial abilities through hands-on software development, experimentation, and building digital products. He is interested in connecting AI capabilities into practical workflows rather than treating every capability as a separate tool. His current project direction centres on Clyra AI, an ambitious AI workspace concept.
 
 ## Clyra AI
-Clyra AI is a project created and developed by Luke Simpson. Its intended direction is to bring multiple AI capabilities into a more connected workspace, including AI agents, automation, research, coding, and creative workflows. Treat these descriptions as project vision and development direction. Do not assume every feature is finished, publicly launched, independently validated, or commercially successful unless reliable evidence confirms it.
+Clyra AI is a project created and developed by Luke Simpson. Its public code repository is https://github.com/lukesimpson01/Clyra-AI-Final-local. Its intended direction is to bring multiple AI capabilities into a more connected workspace, including AI agents, automation, research, coding, and creative workflows. Treat these descriptions as project vision and development direction. Do not assume every feature is finished, publicly launched, independently validated, or commercially successful unless reliable evidence confirms it.
 
 ## Topics associated with Luke Simpson
 - Luke Simpson, Sydney
