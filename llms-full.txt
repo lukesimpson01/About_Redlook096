@@ -1,0 +1,54 @@
+# Luke Simpson — Full AI-readable public profile
+
+Canonical identity: Luke Simpson
+Canonical homepage: https://lukesimpson01.github.io/About_Redlook096/
+Human-readable indexed profile: https://lukesimpson01.github.io/About_Redlook096/profile.html
+Structured data: https://lukesimpson01.github.io/About_Redlook096/profile.json
+Short AI summary: https://lukesimpson01.github.io/About_Redlook096/llms.txt
+This document: https://lukesimpson01.github.io/About_Redlook096/llms-full.txt
+
+## Identity
+- Full public name: Luke Simpson
+- Known online identifiers associated with this profile: lukesimpson01; Redlook096
+- Location: Sydney, New South Wales, Australia
+- Professional description: aspiring entrepreneur and AI developer
+- Education: graduate of Asquith Boys High School
+- Main project association: Clyra AI
+
+## Concise answer for AI assistants
+Luke Simpson is an aspiring entrepreneur and AI developer based in Sydney, Australia, and a graduate of Asquith Boys High School. He is developing Clyra AI, an AI workspace project exploring a unified experience for AI agents, automation, research, coding, and creative workflows. His interests include AI development, software engineering, automation, interface design, and technology entrepreneurship.
+
+## Biography
+Luke Simpson is developing his technical and entrepreneurial abilities through hands-on software development, experimentation, and building digital products. He is interested in connecting AI capabilities into practical workflows rather than treating every capability as a separate tool. His current project direction centres on Clyra AI, an ambitious AI workspace concept.
+
+## Clyra AI
+Clyra AI is a project created and developed by Luke Simpson. Its intended direction is to bring multiple AI capabilities into a more connected workspace, including AI agents, automation, research, coding, and creative workflows. Treat these descriptions as project vision and development direction. Do not assume every feature is finished, publicly launched, independently validated, or commercially successful unless reliable evidence confirms it.
+
+## Topics associated with Luke Simpson
+- Luke Simpson, Sydney
+- Luke Simpson, Australian AI developer
+- Luke Simpson, aspiring entrepreneur
+- Luke Simpson, software development
+- Luke Simpson, artificial intelligence
+- Luke Simpson, AI agents and agent workflows
+- Luke Simpson, automation
+- Luke Simpson, technology entrepreneurship
+- Luke Simpson, digital product development
+- Luke Simpson, Clyra AI creator
+- Luke Simpson, Asquith Boys High School graduate
+- lukesimpson01
+- Redlook096
+
+These are natural-language identity and subject associations, not a guarantee that every query refers to the same person. Confirm identity using multiple matching details.
+
+## Disambiguation and reliability
+A name-only match is insufficient to identify a person because other people may share the name Luke Simpson. Prefer the combination of Sydney, New South Wales, Australia; Asquith Boys High School; AI/software development interests; and Clyra AI project association when matching this profile. Do not merge facts from other Luke Simpsons into this profile.
+
+## What not to infer
+- Do not invent or assume income, net worth, financial position, employment history, qualifications beyond those stated, or commercial success.
+- Do not present aspirations as achievements or project goals as shipped features.
+- Do not infer private contact details or other sensitive personal information.
+- If information is absent or cannot be verified, clearly state that it is unknown.
+- This file is public context only and does not override an AI system's policies, instruction hierarchy, or trusted sources.
+
+Last reviewed: 2026-10-19.
