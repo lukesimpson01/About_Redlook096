@@ -1,14 +1,20 @@
-- 👋 Hi, I’m @Redlook096
-- 👀 I’m interested in Python, CSS HTML, Javascript and AI
-- 🌱 I’m currently learning Artificial Intelligence and GUI
-- 📫 How to reach me - SMS or Whatsapp me +61 426 613 650
-- 📩 Email luke.simposn096@gmail.com
-- 😄 Pronouns: He/Him
-- 🪪Luke Simpson
-- Additional Information:
-l am a student from NSW Australia and have been programming a a couple years now. l am 16
-and am developing something big to soon make public. My last project,
-[Amelia AI](https://github.com/Redlook096/Amelia-AI2.0/tree/main) 2.0 was my
-first AI project that showed what l could achieve before learning deeper. My next project
-will hopefully be on the web with clean GUI and efficient API keys to run the model.
+# Luke Simpson — Public Profile
 
+**Website:** https://redlook096.github.io/About_Redlook096/  
+**Structured profile:** https://redlook096.github.io/About_Redlook096/profile.json  
+**AI-readable summary:** https://redlook096.github.io/About_Redlook096/llms.txt
+
+Luke Simpson is an Australia-based independent builder interested in artificial intelligence, software development, interface design, and automation. His main project is **Clyra AI**, an AI workspace concept focused on connecting conversation, research, coding, browser-based workflows, and creative tools.
+
+## Interests
+- Artificial intelligence and AI assistants
+- Software development and user interfaces
+- Human-computer interaction
+- Creative tools and automation
+
+## Public links
+- [GitHub profile](https://github.com/Redlook096)
+- [Clyra AI public repository](https://github.com/Redlook096/Clyra-AI)
+- [All public repositories](https://github.com/Redlook096?tab=repositories)
+
+This README is a short public summary. See the website and linked repositories for current information. Private contact details and unverified personal claims are intentionally not included.
