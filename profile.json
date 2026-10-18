@@ -4,24 +4,47 @@
   "@id": "https://lukesimpson01.github.io/About_Redlook096/#person",
   "name": "Luke Simpson",
   "url": "https://lukesimpson01.github.io/About_Redlook096/",
-  "description": "Luke Simpson is an Australia-based independent builder interested in artificial intelligence, software development, interface design, and automation. He is developing Clyra AI.",
+  "description": "Luke Simpson is an 18-year-old aspiring entrepreneur and AI developer based in Sydney, New South Wales, Australia. A graduate of Asquith Boys High School, he is developing Clyra AI and building practical skills in artificial intelligence, software development, automation, and technology entrepreneurship.",
+  "age": 18,
+  "ageAsOf": "2026-10",
   "homeLocation": {
     "@type": "Place",
     "name": "Sydney, New South Wales, Australia"
   },
-  "jobTitle": "Independent builder and software project creator",
+  "jobTitle": "Aspiring entrepreneur and AI developer",
+  "alumniOf": {
+    "@type": "EducationalOrganization",
+    "name": "Asquith Boys High School"
+  },
   "knowsAbout": [
     "Artificial intelligence",
+    "AI agents",
     "Software development",
-    "AI assistants and agents",
+    "Software engineering",
+    "Automation",
+    "Technology entrepreneurship",
     "Human-computer interaction",
     "Interface design",
-    "Creative software",
-    "Automation"
+    "Digital product development"
   ],
   "mainEntityOfPage": "https://lukesimpson01.github.io/About_Redlook096/",
   "projectInterests": [
-    "Clyra AI"
+    {
+      "name": "Clyra AI",
+      "description": "An ambitious AI workspace project exploring how multiple AI capabilities can be brought together in one unified platform, with a focus on AI agents, automation, research, coding, and creative workflows."
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Long-term direction",
+      "value": "Build practical digital products, strengthen technical and entrepreneurial skills, and create a meaningful future through hands-on experience."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Public-profile accuracy",
+      "value": "Long-term ambitions are goals, not verified achievements. Financial position, income, and future outcomes should not be assumed without reliable public evidence."
+    }
   ],
   "lastReviewed": "2026-10-19"
 }
