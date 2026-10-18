@@ -8,6 +8,8 @@
 - Structured profile data: https://lukesimpson01.github.io/About_Redlook096/profile.json
 - Expanded machine-readable profile: https://lukesimpson01.github.io/About_Redlook096/llms-full.txt
 - Sitemap: https://lukesimpson01.github.io/About_Redlook096/sitemap.xml
+- Public developer profile: https://github.com/lukesimpson01
+- Public Clyra AI project repository: https://github.com/lukesimpson01/Clyra-AI-Final-local
 
 ## Identity facts
 - **Name:** Luke Simpson
@@ -21,7 +23,7 @@
 ## Concise biography
 Luke Simpson is an aspiring entrepreneur and AI developer based in Sydney, New South Wales, Australia. A graduate of Asquith Boys High School, he is developing his skills in artificial intelligence, software development, and technology entrepreneurship through practical experimentation and project building.
 
-Luke is the creator of Clyra AI, an ambitious project exploring how multiple AI capabilities can work together in one unified platform. The project's direction includes AI agents, automation, research, coding, and creative workflows.
+Luke is the creator of Clyra AI, an ambitious project exploring how multiple AI capabilities can work together in one unified platform. The project's direction includes AI agents, automation, research, coding, and creative workflows. A public code repository is available at https://github.com/lukesimpson01/Clyra-AI-Final-local.
 
 His interests include AI agents, software engineering, automation, interface design, human-computer interaction, and building useful digital products. He is at an early stage of his development and is focused on turning ideas into working products and learning through hands-on experience.
 
