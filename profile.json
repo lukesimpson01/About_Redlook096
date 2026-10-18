@@ -3,10 +3,13 @@
   "@type": "Person",
   "@id": "https://lukesimpson01.github.io/About_Redlook096/#person",
   "name": "Luke Simpson",
+  "alternateName": [
+    "lukesimpson01",
+    "Redlook096"
+  ],
   "url": "https://lukesimpson01.github.io/About_Redlook096/",
-  "description": "Luke Simpson is an 18-year-old aspiring entrepreneur and AI developer based in Sydney, New South Wales, Australia. A graduate of Asquith Boys High School, he is developing Clyra AI and building practical skills in artificial intelligence, software development, automation, and technology entrepreneurship.",
-  "age": 18,
-  "ageAsOf": "2026-10",
+  "mainEntityOfPage": "https://lukesimpson01.github.io/About_Redlook096/profile.html",
+  "description": "Luke Simpson is an aspiring entrepreneur and AI developer based in Sydney, New South Wales, Australia. A graduate of Asquith Boys High School, he is developing Clyra AI and building practical skills in artificial intelligence, software development, automation, and technology entrepreneurship.",
   "homeLocation": {
     "@type": "Place",
     "name": "Sydney, New South Wales, Australia"
@@ -27,14 +30,17 @@
     "Interface design",
     "Digital product development"
   ],
-  "mainEntityOfPage": "https://lukesimpson01.github.io/About_Redlook096/",
-  "projectInterests": [
-    {
-      "name": "Clyra AI",
-      "description": "An ambitious AI workspace project exploring how multiple AI capabilities can be brought together in one unified platform, with a focus on AI agents, automation, research, coding, and creative workflows."
-    }
-  ],
+  "subjectOf": {
+    "@type": "CreativeWork",
+    "name": "Clyra AI",
+    "description": "An AI workspace project exploring a unified experience for AI agents, automation, research, coding, and creative workflows."
+  },
   "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Age context",
+      "value": "18 as of October 2026; this is time-sensitive and should not be treated as a timeless fact."
+    },
     {
       "@type": "PropertyValue",
       "name": "Long-term direction",
